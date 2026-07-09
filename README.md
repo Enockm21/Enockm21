@@ -175,8 +175,6 @@ timeline
 ```mermaid
 timeline
     title Education Journey
-    2021-2022 : Baccalaureat, Web / Multimedia Management and Webmaster
-              : Ecole Regionale de la Deuxieme Chance
     2021-2022 : Bac+2, Web and Mobile Web Developer
               : Simplon.co Grand Ouest
     2022-2023 : Bachelor+3, Application Designer & Developer

@@ -151,23 +151,6 @@ Built the **Connectivity Tool (C-Tool)** at Zodiac Pool Care Europe, a cross-pla
 
 ---
 
-## Education
-
-```mermaid
-timeline
-    title Education Journey
-    2021-2022 : Baccalaureat, Web / Multimedia Management and Webmaster
-              : Ecole Regionale de la Deuxieme Chance
-    2021-2022 : Bac+2, Web and Mobile Web Developer
-              : Simplon.co Grand Ouest
-    2022-2023 : Bachelor+3, Application Designer & Developer
-              : EPSI
-    2023-2025 : Master's degree, Computer Software Engineering
-              : EPSI
-```
-
----
-
 ## Professional Journey
 
 ```mermaid
@@ -183,6 +166,23 @@ timeline
     2025-Present : AI Software Engineer @ Planet Network International
                  : AI chatbot with RAG, Qdrant and MCP
                  : PNICompta mobile app
+```
+
+---
+
+## Education
+
+```mermaid
+timeline
+    title Education Journey
+    2021-2022 : Baccalaureat, Web / Multimedia Management and Webmaster
+              : Ecole Regionale de la Deuxieme Chance
+    2021-2022 : Bac+2, Web and Mobile Web Developer
+              : Simplon.co Grand Ouest
+    2022-2023 : Bachelor+3, Application Designer & Developer
+              : EPSI
+    2023-2025 : Master's degree, Computer Software Engineering
+              : EPSI
 ```
 
 ---

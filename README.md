@@ -124,6 +124,7 @@ Built the **Connectivity Tool (C-Tool)** at Zodiac Pool Care Europe, a cross-pla
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
 ![Graph RAG](https://img.shields.io/badge/Graph_RAG-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logo=protocol&logoColor=black)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-00C9A7?style=for-the-badge&logo=ai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-7B68EE?style=for-the-badge&logo=ai&logoColor=white)
 ![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-00C853?style=for-the-badge&logo=robot&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=magic&logoColor=black)
@@ -131,7 +132,6 @@ Built the **Connectivity Tool (C-Tool)** at Zodiac Pool Care Europe, a cross-pla
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-7B68EE?style=for-the-badge&logo=data&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-00C9A7?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Vector & Knowledge Databases
 

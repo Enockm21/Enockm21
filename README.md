@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=AI+%26+Software+Engineer+%7C+Python%2FDjango+%26+React+Developer;Expert+in+LangChain%2C+RAG+%26+MCP;Building+AI+architectures+deployed+in+16+countries;Turning+business+needs+into+robust%2C+production-ready+products)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enock_M._Maya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enockmukoko-maya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enock_M._Maya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enock-mukoko-maya/)
 [![GitHub](https://img.shields.io/badge/GitHub-Enockm21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enockm21)
 [![Email](https://img.shields.io/badge/Email-enock.mukokom%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enock.mukokom@gmail.com)
 
@@ -22,7 +22,7 @@ I'm a **Generative AI Engineer and Software Engineer** specialized in **Python**
 class AIEngineer:
     def __init__(self):
         self.name = "Enock M. MAYA"
-        self.role = "AI & Software Engineer | Python/Django & React Developer"
+        self.role = "AI Engineer | Python/Django & React Developer"
         self.location = "Toulouse, Occitanie, France"
         self.email = "enock.mukokom@gmail.com"
         self.phone = "0752152357"
@@ -131,10 +131,12 @@ Built the **Connectivity Tool (C-Tool)** at Zodiac Pool Care Europe, a cross-pla
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-7B68EE?style=for-the-badge&logo=data&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-00C9A7?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Vector & Knowledge Databases
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-FF5722?style=for-the-badge&logo=data&logoColor=white)
@@ -232,7 +234,7 @@ timeline
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enockmukoko-maya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enock-mukoko-maya/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enockm21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enock.mukokom@gmail.com)
 

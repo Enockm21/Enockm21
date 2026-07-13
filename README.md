@@ -2,9 +2,9 @@
 
 # Enock M. MAYA
 
-### AI & Software Engineer | Python/Django & React Developer
+### AI Engineer | Python/Django & React Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=AI+%26+Software+Engineer+%7C+Python%2FDjango+%26+React+Developer;Expert+in+LangChain%2C+RAG+%26+MCP;Building+AI+architectures+deployed+in+16+countries;Turning+business+needs+into+robust%2C+production-ready+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Python%2FDjango+%26+React+Developer;Expert+in+LangChain%2C+RAG+%26+MCP;Building+AI+architectures+deployed+in+16+countries;Turning+business+needs+into+robust%2C+production-ready+products)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enock_M._Maya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enock-mukoko-maya/)
 [![GitHub](https://img.shields.io/badge/GitHub-Enockm21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enockm21)
